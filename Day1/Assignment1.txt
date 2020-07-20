@@ -1,6 +1,6 @@
 1} What is Python? What are the ways to install Python in your PC??
 
-Python is a high-level language.It is easy to lear ,its syntax is easier to understand and it has huge amount of open source libraries.Python was developed by Guido Van Rossum in the year 1991 and started gaining popularity in 2006.It can be used for various purposes including but not limited to AI,ML,Web Development etc.
+Python is a high-level language.It is easy to learn ,its syntax is easier to understand and it has huge amount of open source libraries.Python was developed by Guido Van Rossum in the year 1991 and started gaining popularity in 2006.It can be used for various purposes including but not limited to AI,ML,Web Development etc.
 
 Different ways to install Python are:
 1.Install Python3 from its official site ,just go to python download site ,download a version and just run the installer.
