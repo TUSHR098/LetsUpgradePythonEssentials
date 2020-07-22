@@ -1,1 +1,35 @@
+type()-to determine type of variable
+b=int(a) - type conversion,where a is float value
+input() - to accept user input (default input type is string)
+eval()-removes quotes and retains original type
 
+CONDITIONAL STATEMENTS
+
+if (condn):
+          statements
+else:
+          statements
+
+
+if (condn) :
+           statements
+elif (condn):
+           statements
+elif (condn):
+           statements
+else:
+           statements 
+           
+ LOOPS 
+ 
+ range(start,stop,step) - prints values from start to stop-1 ,use step as negative to go backwards
+ eg. - range(5,0,-1)-prints 5,4,3,2,1 //negative step
+ eg. - range(5,10,1)-prints 5,6,7,8,9 //positive step
+ 
+ for var_name in range(..):
+          print(var_name) //prints var_name for range values
+ while(condn):
+          statements
+ {Assgn - sum of n numbers with while loop}
+ break- breaks the loop which contains it
+ continue -skips the particular iteration in the loop which contains it
